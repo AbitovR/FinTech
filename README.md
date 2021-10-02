@@ -83,6 +83,9 @@ With its deposit products, SoFi generates revenue in multiple ways.
 SoFi, just like any traditional bank, invests the money of its users into the capital markets, such as bonds, stocks, or index funds. The gains are banked as profit and allow them to pay out interest to its members. SoFi will earn a commission whenever its members pay with their SoFi cards. Example partners include DoorDash and Netflix. The rewards help to incentivize users to use a particular service. In turn, these cashback partners pay a referral fee for every payment sent their way.  
 
 
+* [source](https://en.wikipedia.org/wiki/SoFi)
+
+
 
 
 
